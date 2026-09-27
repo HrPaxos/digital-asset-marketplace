@@ -1,0 +1,78 @@
+2026-11-20 | paxostech <paxos.tech.team@atomicmail.io> | Stabilize client build config (4).
+2026-11-17 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Balance home stats and floor cards (4).
+2026-11-14 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Align support answers with house terms (4).
+2026-11-12 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Clean ledger status labels (4).
+2026-11-09 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Update share reserve copy (4).
+2026-11-06 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Refine lot filters and sorting (4).
+2026-11-03 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Polish grower profile details (4).
+2026-11-01 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Adjust harvest desk metrics (4).
+2026-10-29 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Improve form validation and empty states (4).
+2026-10-26 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Tighten routing and shared layout (4).
+2026-10-24 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Stabilize client build config (3).
+2026-10-21 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Balance home stats and floor cards (3).
+2026-10-18 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Align support answers with house terms (3).
+2026-10-15 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Clean ledger status labels (3).
+2026-10-12 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Update share reserve copy (3).
+2026-10-10 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Refine lot filters and sorting (3).
+2026-10-07 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Polish grower profile details (3).
+2026-10-04 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Adjust harvest desk metrics (3).
+2026-10-02 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Improve form validation and empty states (3).
+2026-09-29 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Tighten routing and shared layout (3).
+2026-09-26 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Stabilize client build config (2).
+2026-09-23 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Balance home stats and floor cards (2).
+2026-09-21 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Align support answers with house terms (2).
+2026-09-18 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Clean ledger status labels (2).
+2026-09-15 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Update share reserve copy (2).
+2026-09-13 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Refine lot filters and sorting (2).
+2026-09-10 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Polish grower profile details (2).
+2026-09-07 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Adjust harvest desk metrics (2).
+2026-09-04 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Improve form validation and empty states (2).
+2026-09-02 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Tighten routing and shared layout (2).
+2026-08-30 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Stabilize client build config.
+2026-08-27 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Balance home stats and floor cards.
+2026-08-24 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Align support answers with house terms.
+2026-08-22 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Clean ledger status labels.
+2026-08-19 | andresaiello <andresaiello@users.noreply.github.com> | Update share reserve copy.
+2026-08-16 | andresaiello <andresaiello@users.noreply.github.com> | Refine lot filters and sorting.
+2026-08-14 | andresaiello <andresaiello@users.noreply.github.com> | Polish grower profile details.
+2026-08-11 | andresaiello <andresaiello@users.noreply.github.com> | Adjust harvest desk metrics.
+2026-08-08 | andresaiello <andresaiello@users.noreply.github.com> | Improve form validation and empty states.
+2026-08-05 | andresaiello <andresaiello@users.noreply.github.com> | Tighten routing and shared layout.
+2026-08-03 | andresaiello <andresaiello@users.noreply.github.com> | Correct documentation punctuation and encoding.
+2026-07-31 | andresaiello <andresaiello@users.noreply.github.com> | Document local setup.
+2026-07-28 | andresaiello <andresaiello@users.noreply.github.com> | Add collection previews.
+2026-07-26 | andresaiello <andresaiello@users.noreply.github.com> | Add catalog media.
+2026-07-23 | andresaiello <andresaiello@users.noreply.github.com> | Add operator and category artwork.
+2026-07-20 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add interface typefaces.
+2026-07-17 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add branding and carousel assets.
+2026-07-15 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Serve the client from the server.
+2026-07-12 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Connect client data and assets.
+2026-07-09 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add item detail page.
+2026-07-06 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add studio and label tools.
+2026-07-04 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add account and profile views.
+2026-07-01 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add login and signup.
+2026-06-28 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add support and FAQ.
+2026-06-25 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add ledger history.
+2026-06-23 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add shares dashboard.
+2026-06-20 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add press house controls.
+2026-06-17 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add tasting wheel flow.
+2026-06-15 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add watch desk flow.
+2026-06-12 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add market volume charts.
+2026-06-09 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add rankings board.
+2026-06-06 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add catalog browsing.
+2026-06-04 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Complete remaining home content.
+2026-06-01 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add supporting home modules.
+2026-05-29 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add landing page sections.
+2026-05-27 | jacobmtorres <jacobmtorres@users.noreply.github.com> | Add navigation and footer chrome.
+2026-05-24 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add shared layout and routing.
+2026-05-21 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Scaffold the client application.
+2026-05-18 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add preview generation support.
+2026-05-15 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Wire router and health checks.
+2026-05-13 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add catalog and collection endpoints.
+2026-05-10 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add shared helpers and mock data.
+2026-05-07 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add user model and account API.
+2026-05-05 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add authentication routes and access control.
+2026-05-02 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add request logging and error handling.
+2026-04-29 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add application bootstrap and runtime config.
+2026-04-26 | ygaberman-px <ygaberman-px@users.noreply.github.com> | Add ignore rules and core package metadata.
+2026-04-24 | andresaiello <andresaiello@users.noreply.github.com> | Initialize project workspace.
